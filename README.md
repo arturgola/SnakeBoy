@@ -1,7 +1,6 @@
-# snake-
+### snake-
 
-                    Welcome to a snake(снаке)!
-
+<p style="text-align: center;">Welcome to a snake(снаке)!</p>
 
 <p align="center">
     <img src="./resources/gameboy.png" />
